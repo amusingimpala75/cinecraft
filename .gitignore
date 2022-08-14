@@ -2,5 +2,7 @@ test/log/*
 
 .DS_Store
 
+./cinecraft
+
 *.o
 bin/
