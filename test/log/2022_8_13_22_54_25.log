@@ -1,0 +1,548 @@
+[22:54:27] [info ./src/network.c:199] started connection with id 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:27] [info ./src/packet/C2SHandshake.c:24] connecting with addr localhost and port 31
+[22:54:27] [info ./src/network.c:104] changing client 6 from 0 to 1
+[22:54:27] [info ./src/network.c:169] connection 6 received 1 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 9 bytes with id 1
+[22:54:27] [info ./src/packet/status.c:31] received c2s ping packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 10 bytes (id 1) to 6
+[22:54:27] [info ./src/network.c:87] closed connection id 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/network.c:122] malformed packet length
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/network.c:122] malformed packet length
+[22:54:27] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/network.c:122] malformed packet length
+[22:54:27] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:27] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:27] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:27] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:27] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/network.c:122] malformed packet length
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:28] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:28] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:28] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:28] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:29] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [error ./src/network.c:122] malformed packet length
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:29] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:29] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:29] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 16 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 112 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 80 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 96 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 32 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 64 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [error ./src/network.c:122] malformed packet length
+[22:54:30] [error ./src/packet/packet.c:67] cannot read sizeof(u8) bytes because packet is at end
+[22:54:30] [info ./src/network.c:169] connection 6 received 0 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6
+[22:54:30] [info ./src/network.c:169] connection 6 received 48 bytes with id 0
+[22:54:30] [info ./src/packet/status.c:24] received c2s status packet
+[22:54:30] [info ./src/packet/packet.c:33] sent 3984 bytes (id 0) to 6

@@ -1,0 +1,10 @@
+max_player_count = 1
+chat_preview = true
+
+[server]
+  port = 8000
+
+[preview]
+  motd = "test motd"
+  icon = "/cow_dall-e.png"
+  name = "test name"

@@ -1,0 +1,202 @@
+[22:11:28] [info ./src/network.c:198] started connection with id 6
+[22:11:28] [info ./src/network.c:168] connection 6 received 16 bytes with id 0
+[22:11:28] [info ./src/packet/C2SHandshake.c:24] connecting with addr localhost and port 31
+[22:11:28] [info ./src/network.c:103] changing client 6 from 0 to 1
+[22:11:28] [info ./src/network.c:168] connection 6 received 1 bytes with id 0
+[22:11:28] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:28] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 32 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 80 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/network.c:121] malformed packet length
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 16 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 16 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/network.c:121] malformed packet length
+[22:11:45] [info ./src/network.c:168] connection 6 received 32 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 32 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 64 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/network.c:121] malformed packet length
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/network.c:121] malformed packet length
+[22:11:45] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/network.c:121] malformed packet length
+[22:11:45] [info ./src/network.c:168] connection 6 received 96 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 96 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [info ./src/network.c:168] connection 6 received 96 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/network.c:121] malformed packet length
+[22:11:45] [info ./src/network.c:168] connection 6 received 64 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/network.c:121] malformed packet length
+[22:11:45] [info ./src/network.c:168] connection 6 received 64 bytes with id 0
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:45] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:45] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/network.c:121] malformed packet length
+[22:11:46] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 16 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 112 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/network.c:121] malformed packet length
+[22:11:46] [info ./src/network.c:168] connection 6 received 96 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 32 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 16 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 32 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 80 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 32 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 32 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 64 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/network.c:168] connection 6 received 0 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 16 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 48 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes because packet is at end
+[22:11:46] [info ./src/packet/packet.c:32] sent packet id 0 to 6
+[22:11:46] [info ./src/network.c:168] connection 6 received 96 bytes with id 0
+[22:11:46] [error ./src/packet/packet.c:64] cannot read sizeof(u8) bytes becaus

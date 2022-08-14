@@ -1,0 +1,6 @@
+[submodule "lib/tomlc99"]
+	path = lib/tomlc99
+	url = https://github.com/cktan/tomlc99
+[submodule "lib/base64"]
+	path = lib/base64
+	url = https://git.code.sf.net/p/libb64/git

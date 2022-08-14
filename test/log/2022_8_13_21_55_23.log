@@ -1,0 +1,444 @@
+[21:55:27] [info ./src/network.c:217] started connection with id 6
+[21:55:27] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:27] [info ./src/packet/C2SHandshake.c:24] connecting with addr localhost and port 31
+[21:55:27] [info ./src/network.c:122] changing client 6 from 0 to 1
+[21:55:27] [info ./src/network.c:187] connection 6 received 1 bytes with id 0
+[21:55:27] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:28] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:28] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [error ./src/network.c:140] malformed packet length
+[21:55:28] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:28] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:28] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:28] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:28] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:29] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [error ./src/network.c:140] malformed packet length
+[21:55:29] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:29] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:29] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 80 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 112 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 48 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 96 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/packet/packet.c:44] cannot read sizeof(u8) bytes because packet is at end
+[21:55:30] [info ./src/network.c:187] connection 6 received 0 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 16 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 32 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [error ./src/network.c:140] malformed packet length
+[21:55:30] [info ./src/network.c:187] connection 6 received 64 bytes with id 0
+[21:55:30] [info ./src/packet/status.c:26] sent packet id 0 to 6
+[21:55:30] [info ./src/network.c:187] 
