@@ -1,22 +1,20 @@
 # Cinecraft
-![Cinecraft logo, a cow](DALL·E 2022-07-30 14.22.05 - 256 x 256 pixel art of a cow.png)
+![Cinecraft logo, a cow](dall-e_2022-07-30_14.22.05_-_256_x_256_pixel_art_of_a_cow.png)
 Meaning of the name: popular voxel game implementation, but written in C. Should be pronounced with a hard 'C' sould, akin to a 'k', so that then a pun can be used to make the mascot of the project a cow. Thanks DALL·E for the icon.
 
 ### Requirements
 As of now, Cinecraft requires a *nix system in order to run, as it requires on pthreads for multithreading and unix sockets for networking. Other than that, all dependencies are pulled in as git submodules.
 
 ### Building
-
 ``` sh
 git clone https://github.com/amusingimpala75/cinecraft.git
 cd cinecraft
 git submodules update
-run "make -j `nproc`"
+make
 ```
 The executable is aptly named 'cinecraft'.
 
 ### Running
-
 ``` sh
 /path/to/executable/cinecraft folder-for-data-storage
 ```
