@@ -245,3 +245,25 @@ i64 packet_read_i64(packet_data *data) {
   memcpy(&val, data->current_pos, sizeof(i64));
   return val;
 }
+
+void packet_write_byte_array(packet_data *packet, u64 count, u8 *data) {
+  for (u64 i = 0; i < count; i++) {
+    packet_write_u8(data[i], packet);
+  }
+}
+
+void packet_read_byte_array(packet_data *packet, u64 count, u8 *write_to) {
+  for (u64 i = 0; i < count; i++) {
+    write_to[i] = packet_read_u8(packet);
+  }
+}
+
+void packet_write_uuid(uuid uuid, packet_data *packet) {
+  packet_write_i64(uuid.lower, packet);
+  packet_write_i64(uuid.upper, packet);
+}
+
+uuid packet_read_uuid(packet_data *packet) {
+  uuid uuid = {.lower = packet_read_i64(packet), .upper = packet_read_i64(packet)};
+  return uuid;
+}

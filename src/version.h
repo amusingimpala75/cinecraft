@@ -42,9 +42,8 @@ struct target_version {
   } version;
 };
 
-const struct semantic_version server_version = {
-    .major = 0, .minor = 1, .patch = 0};
+extern const char *target_version_string;
 
-const struct target_version target_version = {
-    .type = version_type_release,
-    .version = {.release = {.major = 1, .minor = 19, .patch = 1}}};
+extern const struct semantic_version server_version;
+
+extern const struct target_version target_version;

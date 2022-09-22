@@ -50,6 +50,13 @@ extern struct handshake_packets {
   i16 current_sender_id;
   packet_handler handlers[HANDSHAKE_PACKET_MAX_ID];
 } handshake_packets;
+#define LOGIN_PACKET_MAX_ID 5
+extern struct login_packets {
+  i16 current_packet_id;
+  const i16 max_packet_id;
+  i16 current_sender_id;
+  packet_handler handlers[LOGIN_PACKET_MAX_ID];
+} login_packets;
 
 void initialize_socket(void);
 int accept_connection(void);

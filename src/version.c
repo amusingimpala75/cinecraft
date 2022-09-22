@@ -1,4 +1,4 @@
-/*
+#/*
     Cinecraft - voxel game server written in C
     Copyright (C) 2022  AmusingImpala75
 
@@ -16,22 +16,13 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-#include "memory.h"
-#include "log.h"
-#include <stdlib.h>
+#include "version.h"
 
-void *safe_malloc(size_t size) {
-  void *val = malloc(size);
-  if (!val) {
-    ERROR("malloc error for size %d", size);
-  }
-  return val;
-}
+const struct semantic_version server_version = {
+    .major = 0, .minor = 1, .patch = 0};
 
-void *safe_realloc(void *ptr, size_t size) {
-  void *val = realloc(ptr, size);
-  if (!val) {
-    ERROR("realloc error");
-  }
-  return val;
-}
+const struct target_version target_version = {
+    .type = version_type_release,
+    .version = {.release = {.major = 1, .minor = 19, .patch = 2}}};
+
+const char *target_version_string = "1.19.2";

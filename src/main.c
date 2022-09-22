@@ -35,26 +35,16 @@
 #endif
 
 const char license_notice[] =
-  "    Cinecraft  Copyright (C) 2022  AmusingImpala75"
-  "    This program comes with ABSOLUTELY NO WARRANTY; for details type see the GPLv3."
-  "    This is free software, and you are welcome to redistribute it"
-  "    under certain conditions; see the GPLv3 for details."
+  "    Cinecraft  Copyright (C) 2022  AmusingImpala75\n"
+  "    This program comes with ABSOLUTELY NO WARRANTY; for details type see the GPLv3.\n"
+  "    This is free software, and you are welcome to redistribute it\n"
+  "    under certain conditions; see the GPLv3 for details.\n"
 ;
 
 int main(int argc, char *argv[]) {
   printf("%s", license_notice);
-  printf("Cinecraft Server version %d.%d.%d targeting version ",
-         server_version.major, server_version.minor, server_version.patch);
-  if (target_version.type == version_type_release) {
-    printf("%d.%d.%d", target_version.version.release.major,
-           target_version.version.release.minor,
-           target_version.version.release.patch);
-  } else {
-    printf("%dw%d%c", target_version.version.snapshot.year,
-           target_version.version.snapshot.count,
-           'a' + target_version.version.snapshot.iteration);
-  }
-  printf("\n");
+  printf("Cinecraft Server version %d.%d.%d targeting version %s\n",
+         server_version.major, server_version.minor, server_version.patch, target_version_string);
   const int max_file_path = 1024;
   char *run_dir = safe_malloc(max_file_path); // todo: un-hardcode
   getcwd(run_dir, sizeof(char *) * max_file_path);

@@ -30,6 +30,7 @@ extern struct config {
   } preview;
   i64 max_player_count;
   bool chat_preview;
+  bool auth;
 } config;
 
 void load_config(void);

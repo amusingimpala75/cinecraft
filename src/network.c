@@ -169,6 +169,9 @@ static void *client_network_thread(void *args) {
      case phase_handshake:
        phase = (struct packet_phase *) &handshake_packets;
        break;
+     case phase_login:
+       phase = (struct packet_phase *) &login_packets;
+       break;
      default:
        ERROR("unknown phase: %d", this_client->phase);
        continue;

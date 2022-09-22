@@ -59,8 +59,10 @@ _ALIAS_TYPE(i64, var_long);
 // todo: nbt
 // todo: position
 // todo: angle
-// todo: uuid
-// todo: opt, array, enum
+_TYPE(uuid);
+// todo: opt, enum
+void packet_read_byte_array(packet_data *, u64, u8 *);
+void packet_write_byte_array(packet_data *, u64, u8 *);
 #define PACKET_READ_ENUM(type, size_type, data)                                \
   (type) packet_read_##size_type(data);
 // todo: byte array
@@ -73,14 +75,12 @@ typedef void (*packet_sender)(struct s2c_packet *, packet_data *);
 
 struct s2c_packet {
   packet_sender to_packet_data;
-  size_t size;
   i32 id;
 };
 
 #define DECL_S2C_PACKET(name, fields)                                          \
   typedef struct s2c_##name {                                                  \
     packet_sender to_packet_data;                                              \
-    size_t size;                                                               \
     i32 id;                                                                    \
     fields                                                                     \
   } s2c_##name;                                                                \

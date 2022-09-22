@@ -119,7 +119,7 @@ static const char *status_fmt =
 
 void s2c_status_to_packet_data(s2c_status *info, packet_data *data) {
   char *formatted = NULL;
-  int player_current = 0; // todo: fix
+  int player_current = 0; // TODO: fix
   if (!asprintf(&formatted, status_fmt, version_name, protocol_version,
                 config.max_player_count, player_current, config.preview.motd,
                 get_encoded_icon(), config.chat_preview ? "true" : "false")) {

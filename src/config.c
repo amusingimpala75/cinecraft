@@ -88,6 +88,8 @@ void load_config(void) {
   config.chat_preview = chat_preview.u.b;
 
   toml_free(conf);
+
+  config.auth = false; //TODO
 }
 
 __attribute__((destructor)) static void cleanup_config(void) {
